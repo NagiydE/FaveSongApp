@@ -30,3 +30,13 @@ Endpoints:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+<img width="940" alt="Index" src="https://github.com/user-attachments/assets/2ac56f6b-8bd4-44b1-ae24-cb812a28a279">
+
+<img width="940" alt="login" src="https://github.com/user-attachments/assets/648b1d1c-fafd-4177-a678-dc28557576d7">
+
+<img width="940" alt="home" src="https://github.com/user-attachments/assets/0e0f891e-1ec3-4188-a5b5-ba6453517901">
+
+
+
+
